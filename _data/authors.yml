@@ -1,4 +1,11 @@
 ---
+Ahrendt:
+  firstname: ["Wolfgang", "W.", "W. A.", "Wolfgang Ahrendt"]
+  mail: ahrendt@chalmers.se
+  org: Chalmers University of Technology
+  title: Professor
+  scholar: rFuqP-8AAAAJ
+  orcid: 0000-0002-5671-2555
 Ali:
   firstname: ["Mohammad", "M.", "M. A.", "Mohammad Ali"]
 Alibeigi:
@@ -168,6 +175,12 @@ Rafidashti:
   mail: mahan.rafidashti@zenseact.com
   org: [Zenseact, Chalmers University of Technology]
   title: PhD Student
+Selvaraj:
+  firstname: ["Yuvaraj", "Y.", "Y. S.", "Yuvaraj Selvaraj"]
+  mail: yuvaraj.selvaraj@zenseact.com
+  org: Zenseact
+  scholar: 4H0B9HYAAAAJ
+  orcid: 0000-0003-2184-3069
 Sjoberg:
   firstname: ["Jonas", "J.", "J. S.", "Jonas Sjöberg"]
   scholar: s0Qakg77XTYC
